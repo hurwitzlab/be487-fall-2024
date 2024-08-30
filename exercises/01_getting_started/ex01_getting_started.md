@@ -23,11 +23,10 @@ To get started, please make sure that you have completed these two steps:
 
 2. On the top menu bar select "Clusters" and "_Shell access" from the pull-down list. 
 
-![HPC Web Portal](image.png)
-
+![alt text](image-3.png)
 3. A shell terminal will open for you in a new window. Type "ocelote" after prompt and hit enter. Now you will automatically be in your home directory.  
 
-![HPC Unix shell on the head node](image-1.png)
+![alt text](image-1.png)
 
 Once you login, the system will send you to your home directory. In my case, this is "/home/u20/bhurwitz". 
 
@@ -86,7 +85,7 @@ Make a selection from the menu to login to a head node for one of the clusters.
 [bhurwitz@gatekeeper ~]$ ocelote
 ```
 
-As of 2023, Puma is UA's newest cluster and is mainly used for research purposes. For instruction, we will use ocelote. 
+As of 2024, Puma is UA's newest cluster and is mainly used for research purposes. For instruction, we will use ocelote. 
 
 If you would like to avoid the 2-factor authentication, then read the following:
 
