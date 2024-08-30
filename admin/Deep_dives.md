@@ -4,7 +4,6 @@ Overview: Deep dives should be compiled from all of your homework assignments fo
 
 These Deep Dives are similar to a lab notebook where you will include a Title, Objective, Materials & Methods, Results, Discussion, Tables, Figures, and References to provide a written summary of the homework.
 
-
 Title: The title identifies the important contents of the analysis and orients the reader by specifying the writer’s main findings or perspective.
 
 Objective: The objective sets the stage for your analysis. It places your work in a broad theoretical context and gives the reader enough information to appreciate the objectives of the study.

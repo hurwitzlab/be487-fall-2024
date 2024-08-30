@@ -1,4 +1,4 @@
-# 01_intro_unix Getting started 
+# 01 Getting started 
 
 ## Opening your first Jupyter Notebook: 
 In this class, all of our exercises and assignments (for the class project) will be implemented in Jupyter Notebooks. So, from here on out, you will download Jupyter Notebooks from D2L for each exercise and assignment. Let's try doing this for the first exercise.
@@ -9,5 +9,5 @@ In this class, all of our exercises and assignments (for the class project) will
 
 3. Select the Ocelote Cluster, Standard queue, PI Group: bh_class, and all other defaults.
 
-4. Go to D2L and download your first Jupyter Notebook under 01 | Introduction to Computing -> Exercises -> hw01_intro_to_unix.ipynb 
+4. Go to D2L and download your first Jupyter Notebook under 01 | Introduction to Computing -> Exercises -> hw01-01_getting_started_jupyter.ipynb 
 
