@@ -9,5 +9,5 @@ In this class, all of our exercises and assignments (for the class project) will
 
 3. Select the Ocelote Cluster, Standard queue, PI Group: bh_class, and all other defaults.
 
-4. Go to D2L and download your first Jupyter Notebook under 01 | Introduction to Computing -> Assignments -> hw01-01_getting_started_jupyter.ipynb 
+4. Go to D2L and download your first Jupyter Notebook under 01 | Introduction to Computing -> Exercises -> ex01_getting_started.ipynb
 
