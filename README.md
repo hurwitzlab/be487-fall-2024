@@ -1,2 +1,2 @@
 # be487-fall-2024
-metagenomics 487/587
+Metagenomics Fall 2024
