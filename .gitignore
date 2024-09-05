@@ -1,8 +1,2 @@
 # Ignore Mac system files
 .DS_store
-
-# Ignore videos folder
-videos
-
-# Ignore lectures
-lectures
